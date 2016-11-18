@@ -1,4 +1,3 @@
-alert('sss');
 console.log('sss');
 function count1(){
 	var arr = [];
